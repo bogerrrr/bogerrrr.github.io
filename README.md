@@ -1,4 +1,4 @@
 # bogerrrr.github.io
-My blog:
-I have a *blog*
-翟子鑫是我儿子
+February 12, 2020
+My blog:I have a *blog*.It's a new begin,this is my first blog.Hello,GitHub
+
